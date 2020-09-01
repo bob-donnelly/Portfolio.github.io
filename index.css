@@ -1,0 +1,48 @@
+html {
+    font-size: 100%;
+}
+
+/* Made some colour changes to my page using css */
+
+body {
+    background-color: #839beb;
+    display: flexbox;
+    vertical-align: text-top;
+
+}
+
+/* Added a img and styled it to be the same layout in both mobile and desktop versions with a slightly rounded border */
+
+img {
+    height: 15rem;
+    float: right;
+    border-radius: 1rem;
+}
+
+/* Styling font with alignment, font style and relative font sizes  */
+
+div {
+    font-size: 1.5rem;
+    margin: auto;
+    font-family: sans-serif, 'Times New Roman', Times;
+    margin: 1%;
+    }
+
+#header {
+    text-align: center;
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman';
+}
+
+form {
+    text-align: center;
+  
+}
+
+/* Made a rounded button with border radius with responsive formatting */
+
+button {
+    font-size: 1.25rem;
+    background-color: #fbff00;
+    border-radius: 0.8rem;
+}
